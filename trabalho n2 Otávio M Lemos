@@ -11,7 +11,7 @@ int main() {
     float preco[PRODUTOS];
     float total = 0;
 
-    // Trabalho de Ot·vio Marcilio Lemos
+    // Trabalho de Ot√°vio Marcilio Lemos
     srand(time(NULL));
 
 
