@@ -1,2 +1,2 @@
 # parallel-universe
-projetos paralelos de isis e otavio
+projetos paralelos
